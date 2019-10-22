@@ -1,2 +1,2 @@
 # FFX Notes
- Final Fantasy X Notes
+ Final Fantasy X Any% Speedrun Notes
