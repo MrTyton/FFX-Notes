@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.12)  22 OCT 2019 00:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.12)  24 OCT 2019 00:17
 entering extended mode
 **./FFX_Any_.tex
 (FFX_Any_.tex
@@ -1115,22 +1115,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 \newpage
-              [1
+l.139 \newpage
+               [1
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \newpage
-               [2] (Chapters/zanarkand.tex
+] (Chapters/zanarkand.tex
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
 ("C:\Users\Joshua\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
 ) (Chapters/baajtemple.tex
 Chapter 2.
 ) (Chapters/besaid.tex
@@ -1141,8 +1136,8 @@ een already used, duplicate ignored
                    \relax 
 l.34 	\item \cs
                [1:00], \sd\ inside the Fayth room. \fmv+\cs[1:00]. \sd\ afte...
-[3]
-<graphics/tiduscheer.png, id=176, 167.62625pt x 122.4575pt>
+[2]
+<graphics/tiduscheer.png, id=173, 167.62625pt x 122.4575pt>
 File: graphics/tiduscheer.png Graphic file (type png)
 <use graphics/tiduscheer.png>
 Package pdftex.def Info: graphics/tiduscheer.png  used on input line 46.
@@ -1158,7 +1153,7 @@ dus[]
 
 ) (Chapters/kilika.tex
 Chapter 5.
-<graphics/kilikamap.png, id=178, 97.86563pt x 139.01938pt>
+<graphics/kilikamap.png, id=175, 97.86563pt x 139.01938pt>
 File: graphics/kilikamap.png Graphic file (type png)
 <use graphics/kilikamap.png>
 Package pdftex.def Info: graphics/kilikamap.png  used on input line 18.
@@ -1168,9 +1163,9 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.20 	\item G
-             o left and up the hidden pack, \pickup{Scout Ball} [4 <./graphics/
+             o left and up the hidden pack, \pickup{Scout Ball} [3 <./graphics/
 tiduscheer.png>]
-<graphics/tidusflee.png, id=198, 115.93312pt x 114.92938pt>
+<graphics/tidusflee.png, id=196, 115.93312pt x 114.92938pt>
 File: graphics/tidusflee.png Graphic file (type png)
 <use graphics/tidusflee.png>
 Package pdftex.def Info: graphics/tidusflee.png  used on input line 26.
@@ -1183,59 +1178,58 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 	\item I
-             f anyone is Critical HP, use Potions. [5 <./graphics/kilikamap.png
-> <./graphics/tidusflee.png>]
-<graphics/haste.png, id=222, 142.03062pt x 134.5025pt>
+l.7 	\item \sd
+              , run to the cafe. \sd, \skippablefmv+\cs[1:20], \sd [4 <./graphi
+cs/kilikamap.png> <./graphics/tidusflee.png>]
+<graphics/haste.png, id=219, 142.03062pt x 134.5025pt>
 File: graphics/haste.png Graphic file (type png)
 <use graphics/haste.png>
-Package pdftex.def Info: graphics/haste.png  used on input line 67.
+Package pdftex.def Info: graphics/haste.png  used on input line 68.
 (pdftex.def)             Requested size: 142.03026pt x 134.50215pt.
-) (Chapters/miihenhighroad.tex
-Chapter 8.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4 	\item W
-            alk up. Forced encounter, \sd. Walk up, \sd\ during Maechen Scene.
-[6 <./graphics/haste.png>]) (Chapters/mushroomrockroad.tex
+l.139 	\item F
+              ollow red arrow to \yuna. \sd\ during guardian scene. Walk to ...
+[5 <./graphics/haste.png>]) (Chapters/miihenhighroad.tex
+Chapter 8.
+) (Chapters/mushroomrockroad.tex
 Chapter 9.
-<graphics/yunammr.png, id=242, 132.495pt x 137.51375pt>
+<graphics/yunammr.png, id=237, 132.495pt x 137.51375pt>
 File: graphics/yunammr.png Graphic file (type png)
 <use graphics/yunammr.png>
-Package pdftex.def Info: graphics/yunammr.png  used on input line 33.
+Package pdftex.def Info: graphics/yunammr.png  used on input line 34.
 (pdftex.def)             Requested size: 132.49466pt x 137.51341pt.
-<graphics/kimahrimmr.png, id=243, 197.23688pt x 110.4125pt>
+<graphics/kimahrimmr.png, id=238, 197.23688pt x 110.4125pt>
 File: graphics/kimahrimmr.png Graphic file (type png)
 <use graphics/kimahrimmr.png>
-Package pdftex.def Info: graphics/kimahrimmr.png  used on input line 43.
+Package pdftex.def Info: graphics/kimahrimmr.png  used on input line 44.
 (pdftex.def)             Requested size: 197.23637pt x 110.41222pt.
-<graphics/wakkammr.png, id=244, 161.10187pt x 124.96687pt>
+<graphics/wakkammr.png, id=239, 161.10187pt x 124.96687pt>
 File: graphics/wakkammr.png Graphic file (type png)
 <use graphics/wakkammr.png>
-Package pdftex.def Info: graphics/wakkammr.png  used on input line 51.
+Package pdftex.def Info: graphics/wakkammr.png  used on input line 52.
 (pdftex.def)             Requested size: 161.10147pt x 124.96657pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.115 	\item W
-              hile Yuna still needs AP, do the following [7]pdfTeX warning (ext
-4): destination with the same identifier (name{page.}) has been already used, d
-uplicate ignored
+l.55 
+      [6]pdfTeX warning (ext4): destination with the same identifier (name{page
+.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.161 \end{battle}
-                   [8 <./graphics/yunammr.png> <./graphics/kimahrimmr.png> <./g
+l.162 \end{battle}
+                   [7 <./graphics/yunammr.png> <./graphics/kimahrimmr.png> <./g
 raphics/wakkammr.png>]) (Chapters/djose.tex
 Chapter 10.
-<graphics/djosetidus.png, id=276, 143.53625pt x 134.5025pt>
+<graphics/djosetidus.png, id=274, 143.53625pt x 134.5025pt>
 File: graphics/djosetidus.png Graphic file (type png)
 <use graphics/djosetidus.png>
 Package pdftex.def Info: graphics/djosetidus.png  used on input line 10.
 (pdftex.def)             Requested size: 143.53589pt x 134.50215pt.
-<graphics/djosewakka.png, id=277, 125.46875pt x 123.96312pt>
+<graphics/djosewakka.png, id=275, 125.46875pt x 123.96312pt>
 File: graphics/djosewakka.png Graphic file (type png)
 <use graphics/djosewakka.png>
 Package pdftex.def Info: graphics/djosewakka.png  used on input line 17.
@@ -1246,23 +1240,24 @@ Underfull \hbox (badness 5091) in paragraph at lines 29--30
 /bx/n/10 Stone
  []
 
-) (Chapters/moonflow.tex
-Chapter 11.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \chapter{Moonflow}
-                       [9 <./graphics/djosetidus.png> <./graphics/djosewakka.pn
-g>]) (Chapters/guadosalam.tex
+l.72 	\item G
+             o left, \pickup{4000 Gil}, cross the bridge, \sd, exit, \sd, go...
+[8 <./graphics/djosetidus.png> <./graphics/djosewakka.png>])
+(Chapters/moonflow.tex
+Chapter 11.
+) (Chapters/guadosalam.tex
 Chapter 12.
-<graphics/guadoskipstandard.png, id=292, 182.6825pt x 138.5175pt>
+<graphics/guadoskipstandard.png, id=290, 182.6825pt x 138.5175pt>
 File: graphics/guadoskipstandard.png Graphic file (type png)
 <use graphics/guadoskipstandard.png>
 Package pdftex.def Info: graphics/guadoskipstandard.png  used on input line 15.
 
 (pdftex.def)             Requested size: 182.68204pt x 138.51715pt.
-<graphics/guadoskipremaster.png, id=293, 214.30063pt x 121.95563pt>
+<graphics/guadoskipremaster.png, id=291, 214.30063pt x 121.95563pt>
 File: graphics/guadoskipremaster.png Graphic file (type png)
 <use graphics/guadoskipremaster.png>
 Package pdftex.def Info: graphics/guadoskipremaster.png  used on input line 17.
@@ -1276,7 +1271,7 @@ een already used, duplicate ignored
                    \relax 
 l.22 	\item \sd
                \ when approaching Al Bhed shop. Walk into the shop when \rik...
-[10 <./graphics/guadoskipstandard.png> <./graphics/guadoskipremaster.png>])
+[9 <./graphics/guadoskipstandard.png> <./graphics/guadoskipremaster.png>])
 (Chapters/macalaniawoods.tex
 Chapter 14.
 
@@ -1284,25 +1279,25 @@ Underfull \hbox (badness 6001) in paragraph at lines 19--21
 []\OT1/cmr/m/n/10 Catch but-ter-fly near the exit to avoid en-coun-ters
  []
 
-<graphics/macalaniarikku.png, id=318, 126.97438pt x 95.35625pt>
+<graphics/macalaniarikku.png, id=316, 126.97438pt x 95.35625pt>
 File: graphics/macalaniarikku.png Graphic file (type png)
 <use graphics/macalaniarikku.png>
 Package pdftex.def Info: graphics/macalaniarikku.png  used on input line 59.
 (pdftex.def)             Requested size: 126.97406pt x 95.356pt.
-) (Chapters/lakemacalania.tex
-Chapter 15.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \end{spheregrid}
-                      [11 <./graphics/macalaniarikku.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+l.86 \newpage
+              [10 <./graphics/macalaniarikku.png>]) (Chapters/lakemacalania.tex
+Chapter 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 [][]\OT1/cmr/bx/n/10 Enemy[]\OT1/cmr/m/n/10 : Guado Guardians
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 [][]\OT1/cmr/bx/n/10 Kimahri[]\OT1/cmr/m/n/10 : De-fend. If Shrem-edy landed,
  []
 
@@ -1310,9 +1305,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 	\item R
+l.154 	\item R
               un up to \rikku, \sd, walk up to \yuna, \sd, \save, run past \...
-[12]) (Chapters/bikaneldesert.tex
+[11]) (Chapters/bikaneldesert.tex
 Chapter 16.
 ) (Chapters/home.tex
 Chapter 17.
@@ -1321,7 +1316,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 	\item W
-             alk down steps, \cs[1:30] [13]) (Chapters/airship.tex
+             alk down steps, \cs[1:30] [12]) (Chapters/airship.tex
 Chapter 18.
 ) (Chapters/bevelle.tex
 Chapter 19.
@@ -1334,15 +1329,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 	\item \sd
-               , name \bahamut, don't save, \sd [14]) (Chapters/viapurifico.tex
+l.95 	\item \sd
+               , name \bahamut, don't save, \sd [13]) (Chapters/viapurifico.tex
 Chapter 20.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.128 	\item \sd
-                 [15]) (Chapters/calmlands.tex
+                 [14]) (Chapters/calmlands.tex
 Chapter 21.
 ) (Chapters/mtgagazet.tex
 Chapter 22.
@@ -1350,11 +1345,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 	\item W
+l.105 	\item W
               alk up to the next screen, go up the steps. Go down the left p...
-[16]) (Chapters/zanarkand2.tex
+[15]) (Chapters/zanarkand2.tex
 Chapter 23.
-<graphics/zanarkandpuzzles.png, id=426, 328.22626pt x 274.02374pt>
+<graphics/zanarkandpuzzles.png, id=424, 328.22626pt x 274.02374pt>
 File: graphics/zanarkandpuzzles.png Graphic file (type png)
 <use graphics/zanarkandpuzzles.png>
 Package pdftex.def Info: graphics/zanarkandpuzzles.png  used on input line 48.
@@ -1369,12 +1364,12 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.66 	\item \save
-                 , Run up, \sd, walk up to Yunalesca's room, \sd [17 <./graphic
+                 , Run up, \sd, walk up to Yunalesca's room, \sd [16 <./graphic
 s/zanarkandpuzzles.png>]) (Chapters/airship2.tex
 Chapter 24.
 ) (Chapters/insidesin.tex
 Chapter 25.
-<graphics/sinpath.png, id=448, 232.36812pt x 149.55875pt>
+<graphics/sinpath.png, id=446, 232.36812pt x 149.55875pt>
 File: graphics/sinpath.png Graphic file (type png)
 <use graphics/sinpath.png>
 Package pdftex.def Info: graphics/sinpath.png  used on input line 5.
@@ -1400,24 +1395,24 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.67 	\item W
-             alk up to Ject, \cs[4:30] [18 <./graphics/sinpath.png>])pdfTeX war
+             alk up to Ject, \cs[4:30] [17 <./graphics/sinpath.png>])pdfTeX war
 ning (ext4): destination with the same identifier (name{page.}) has been alread
 y used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \end{document}
-                     [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
+l.169 \end{document}
+                     [18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
  (FFX_Any_.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 170.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `FFX_Any_.out' has not changed.
 (rerunfilecheck)             Checksum: 6D200771C9FF082F4E34F5A2E6B85682;1177.
  ) 
 Here is how much of TeX's memory you used:
- 29422 strings out of 492946
- 582789 string characters out of 3125822
+ 29423 strings out of 492946
+ 582797 string characters out of 3125822
  733685 words of memory out of 3000000
  32616 multiletter control sequences out of 15000+200000
  541853 words of font info for 59 fonts, out of 3000000 for 9000
@@ -1434,9 +1429,9 @@ ers/Joshua/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 sfonts/cm/cmr17.pfb><C:/Users/Joshua/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Joshua/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on FFX_Any_.pdf (20 pages, 1398418 bytes).
+Output written on FFX_Any_.pdf (19 pages, 1398728 bytes).
 PDF statistics:
- 567 PDF objects out of 1000 (max. 8388607)
- 272 named destinations out of 1000 (max. 500000)
+ 565 PDF objects out of 1000 (max. 8388607)
+ 273 named destinations out of 1000 (max. 500000)
  283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
