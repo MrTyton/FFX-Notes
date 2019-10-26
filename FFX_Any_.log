@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.12)  24 OCT 2019 00:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.12)  26 OCT 2019 10:57
 entering extended mode
 **./FFX_Any_.tex
 (FFX_Any_.tex
@@ -1292,12 +1292,12 @@ l.86 \newpage
               [10 <./graphics/macalaniarikku.png>]) (Chapters/lakemacalania.tex
 Chapter 15.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 [][]\OT1/cmr/bx/n/10 Enemy[]\OT1/cmr/m/n/10 : Guado Guardians
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 [][]\OT1/cmr/bx/n/10 Kimahri[]\OT1/cmr/m/n/10 : De-fend. If Shrem-edy landed,
  []
 
@@ -1305,9 +1305,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.154 	\item R
-              un up to \rikku, \sd, walk up to \yuna, \sd, \save, run past \...
-[11]) (Chapters/bikaneldesert.tex
+l.153 \end{battle}
+                   [11]) (Chapters/bikaneldesert.tex
 Chapter 16.
 ) (Chapters/home.tex
 Chapter 17.
@@ -1413,11 +1412,11 @@ Package rerunfilecheck Info: File `FFX_Any_.out' has not changed.
 Here is how much of TeX's memory you used:
  29423 strings out of 492946
  582797 string characters out of 3125822
- 733685 words of memory out of 3000000
+ 734685 words of memory out of 3000000
  32616 multiletter control sequences out of 15000+200000
  541853 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,6n,73p,834b,1031s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,6n,73p,834b,1032s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Joshua/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx10.pfb><C:/Users/Joshua/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb><C:/Users/Joshua/AppData/Local/Programs/MiKTeX 2.
@@ -1429,7 +1428,7 @@ ers/Joshua/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 sfonts/cm/cmr17.pfb><C:/Users/Joshua/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Joshua/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on FFX_Any_.pdf (19 pages, 1398728 bytes).
+Output written on FFX_Any_.pdf (19 pages, 1398758 bytes).
 PDF statistics:
  565 PDF objects out of 1000 (max. 8388607)
  273 named destinations out of 1000 (max. 500000)
